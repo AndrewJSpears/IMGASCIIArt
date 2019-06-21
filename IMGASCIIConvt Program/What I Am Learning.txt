@@ -1,4 +1,0 @@
-I need to utilize a bit map to load and manage/manipulate the image.
-
-BITMAP: a representation in which each item corresponds to one or more bits of information, especially the information used to control the display of a computer screen.
-
