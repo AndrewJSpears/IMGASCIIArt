@@ -1,0 +1,14 @@
+What I Think I know...
+
+Interface.
+	- File Input
+	- Output File Name (During image selection process)
+	Possible additional features... Grayscale/color etc... 
+
+What do I think I know the program needs to do?
+	1. Take in an image
+	2. Convert pixels to greyscale image (save this file?)
+	3. Convert pixels based on color range to ascii (index? carrage 		return for new line?)
+	4. Write array to text file.
+
+Need documentation
