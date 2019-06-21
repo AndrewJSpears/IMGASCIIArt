@@ -1,0 +1,13 @@
+When you search after image is loaded clear left picturebox?
+
+RGB sliders
+	-create stack to store user input
+
+Watermark feature
+Export Feature
+Bitmap-Marshal (for speed with the image)
+
+
+Radio buttom fix... 
+
+Add progess message while doing work on the photo
